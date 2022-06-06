@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_ComputeWhenDouble/02_ComputeWhenDouble.iml" filepath="$PROJECT_DIR$/02_ComputeWhenDouble/02_ComputeWhenDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_PowerOfTwo/03_PowerOfTwo.iml" filepath="$PROJECT_DIR$/03_PowerOfTwo/03_PowerOfTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_firstCharacter/04_firstCharacter.iml" filepath="$PROJECT_DIR$/04_firstCharacter/04_firstCharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_letterCapitalize/06_letterCapitalize.iml" filepath="$PROJECT_DIR$/06_letterCapitalize/06_letterCapitalize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_convertListToObject/07_convertListToObject.iml" filepath="$PROJECT_DIR$/07_convertListToObject/07_convertListToObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_convertDoubleSpaceToSingle/08_convertDoubleSpaceToSingle.iml" filepath="$PROJECT_DIR$/08_convertDoubleSpaceToSingle/08_convertDoubleSpaceToSingle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_ABCheck/09_ABCheck.iml" filepath="$PROJECT_DIR$/09_ABCheck/09_ABCheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_insertDash/10_insertDash.iml" filepath="$PROJECT_DIR$/10_insertDash/10_insertDash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeStates_DailyCoding.iml" filepath="$PROJECT_DIR$/.idea/CodeStates_DailyCoding.iml" />
+    </modules>
+  </component>
+</project>

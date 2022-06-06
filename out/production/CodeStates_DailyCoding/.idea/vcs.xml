@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02_ComputeWhenDouble" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03_PowerOfTwo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04_firstCharacter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06_letterCapitalize" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07_convertListToObject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08_convertDoubleSpaceToSingle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/09_ABCheck" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10_insertDash" vcs="Git" />
+  </component>
+</project>
